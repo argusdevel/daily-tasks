@@ -80,9 +80,9 @@ API methods:
 
 Response value:
 
-{
-   status (string): Status of request operation,
-   message (string): Operation details,
-   data (array): Main result of success operation,
-   code (integer): Response code
-}
+ {
+    status (string): Status of request operation,
+    message (string): Operation details,
+    data (array): Main result of success operation,
+    code (integer): Response code
+ }
